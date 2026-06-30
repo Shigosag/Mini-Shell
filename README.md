@@ -1,5 +1,8 @@
 # 🚀 Mini Shell (C) — By Shigosag
 
+[![C](https://img.shields.io/badge/c-language-lightgrey)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A modern, lightweight terminal shell built in C, designed as a portfolio-grade systems project demonstrating command parsing, history tracking, logging, and basic shell behavior.
 
 ![Mini Shell Build](screenshots/shell.png)
