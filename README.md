@@ -13,9 +13,9 @@ A modern, lightweight terminal shell built in C, designed as a portfolio-grade s
 
 **Timestamps:**
 - **0:00** - Shell build
-- **0:10** - Shell launch & branding banner
-- **0:25** - Command input interface
-- **0:40** - GitHub Repository Overview
+- **0:40** - Shell launch & branding banner
+- **0:47** - Command input interface
+- **0:59** - GitHub Repository Overview
 
 ---
 
