@@ -2,6 +2,21 @@
 
 A modern, lightweight terminal shell built in C, designed as a portfolio-grade systems project demonstrating command parsing, history tracking, logging, and basic shell behavior.
 
+![Mini Shell Build](Screenshots/shell.png)
+![Mini Shell Terminal](Screenshots/shell2.png)
+
+### 🎥 Mini Shell Demo & Walkthrough
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/b12300ff-21ee-45ec-9bbf-2180957cbafb" width="100%" controls></video>
+</div>
+
+**Timestamps:**
+- **0:00** - Shell build
+- **0:10** - Shell launch & branding banner
+- **0:25** - Command input interface
+- **0:40** - GitHub Repository Overview
+
 ---
 
 ## ✨ Features
