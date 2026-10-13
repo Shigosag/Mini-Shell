@@ -43,6 +43,8 @@ A modern, lightweight terminal shell built in C, designed as a portfolio-grade s
 
 ## 🗂️ Project Structure
 
+[![Architecture Diagram](https://img.shields.io/badge/View-GitDiagram-blue)](https://gitdiagram.com/Shigosag/Mini-Shell)
+
 ```text
 Mini-Shell/
 │
